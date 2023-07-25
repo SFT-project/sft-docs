@@ -4,7 +4,7 @@ description: 对于FIL持有者，可以用以下两种方式参与到SFT Protoc
 
 # 🤝 FIL 持有者
 
-### 1. 质押FIL到封装节点，获取高收益
+## 1. 质押FIL到封装节点，获取高收益
 
 用户可以在BSC和Filecoin的FVM上，在Mint页面中，使用FIL进行质押到封装节点，链上合约将会铸造出同等数量的SFT(活动期间)，参与节点联合挖矿。FIL持有者与设备提供商，双方5:5共享挖矿收益。
 
@@ -12,7 +12,7 @@ description: 对于FIL持有者，可以用以下两种方式参与到SFT Protoc
 
 <figure><img src="../.gitbook/assets/14.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### 2. 质押FIL到Pool流动池中
+## 2. 质押FIL到Pool流动池中
 
 FIL持有者，提供流动性到Pool池中，赚取FIL币本位APY10%-58%的收益，用户可以通过持有rSFT，实时赎回自己提供的FIL。
 
