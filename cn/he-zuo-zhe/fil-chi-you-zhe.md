@@ -10,7 +10,7 @@ description: 对于FIL持有者，可以用以下两种方式参与到SFT Protoc
 
 质押教程：[zhi-ya-fil-dao-feng-zhuang-jie-dian](../jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/ "mention")
 
-<figure><img src="../.gitbook/assets/5.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/14.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 2. 质押FIL到Pool流动池中
 
@@ -20,8 +20,7 @@ FIL持有者，提供流动性到Pool池中，赚取FIL币本位APY10%-58%的收
 什么是Pool？SFT Protocol在Filecoin的FVM上推出的流动性质押和杠杆挖矿流动性池。它使 $FIL 代币持有者能够在没有锁定期的情况下获得稳定的收益，并为FIL需求者提供流动性借贷。
 {% endhint %}
 
-FIL流动性提供教程：待更新
+FIL流动性提供教程：[zhi-ya-fil-dao-pool.md](../jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-pool.md "mention")\
 
-<figure><img src="../.gitbook/assets/提供流动性.png" alt="" width="563"><figcaption></figcaption></figure>
 
-\
+<figure><img src="../.gitbook/assets/15 (1).png" alt="" width="563"><figcaption></figcaption></figure>

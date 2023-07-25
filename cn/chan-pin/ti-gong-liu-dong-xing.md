@@ -1,6 +1,6 @@
 # 🚰 提供流动性
 
-<figure><img src="../.gitbook/assets/提供流动性 (1).png" alt="" width="563"><figcaption><p>提供流动性</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/15.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### 1. 什么是Pool：
 

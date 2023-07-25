@@ -26,7 +26,7 @@ SPD（SFT Protocol DAO）是SFT Protocol 的治理代币。它具有协议治理
 
 **具体奖励规则如下：**
 
-<figure><img src="https://lh3.googleusercontent.com/FhTdQINMHIUJQsfg3K0wu6uKb_OuVQxA5N8dSw2FlpXME4IS3F2vACPpWwe0O4XxXWqniKHRkzmWmjd9QnY8po6MQQfTk2_tJ9-TzKQcayxR0qdqqq_Wh4m7hvQ1V56ky5VQACMYlCVtXIwqgLfDtD8" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
 
 **结算时间：**立即质押，立即空投！等级和奖励每天更新，并由智能合约自动结算。
 
