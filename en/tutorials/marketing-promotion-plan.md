@@ -28,7 +28,7 @@ As the project is in its early stages, we define rSPD as the future score of SPD
 
 **The specific reward rules are as follows:**
 
-<figure><img src="https://lh3.googleusercontent.com/FhTdQINMHIUJQsfg3K0wu6uKb_OuVQxA5N8dSw2FlpXME4IS3F2vACPpWwe0O4XxXWqniKHRkzmWmjd9QnY8po6MQQfTk2_tJ9-TzKQcayxR0qdqqq_Wh4m7hvQ1V56ky5VQACMYlCVtXIwqgLfDtD8" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
 
 Settlement Time: Stake now, claim rewards immediately! The level and rewards are updated daily and automatically settled by the smart contract.
 
