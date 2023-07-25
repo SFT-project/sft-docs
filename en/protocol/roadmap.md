@@ -36,5 +36,3 @@
 2. Launch the formal net of multi-chain DeFi ecosystem applications.
 3. Mine other ecosystems and incubate applications more deeply.
 4. Complete the initial test mechanism of SFT Protocol DAO (SPD).
-
-\

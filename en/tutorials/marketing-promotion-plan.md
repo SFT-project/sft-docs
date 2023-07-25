@@ -41,8 +41,3 @@ Settlement Time: Stake now, claim rewards immediately! The level and rewards are
 ① First-time participation in this lock-up activity.
 
 ② Single stake amount exceeds 50 FIL.
-
-\
-
-
-\

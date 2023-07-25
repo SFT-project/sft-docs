@@ -21,5 +21,3 @@ When holders of rSFT in the pool face asset losses, the Reserve Fund can bear th
 #### Enhancing investor confidence:
 
 By setting up a Reserve Fund account, SFT Protocol can provide investors with a safer and more reliable investment environment, enhancing their confidence.
-
-\
