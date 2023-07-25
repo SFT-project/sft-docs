@@ -28,6 +28,4 @@ SFT协议扩展硬件以汇聚Web3和Metaverse的区块链API。它提供存储�
 
 SFT Protocol除了赋能AI之外，也将持续为Web3提供服务，并部署于后续出现的新公链。
 
-
-
-当前，SFT Protocol 已在部署在BSC及Filecoin当中，后续将推出应用链服务。
+#### 当前，SFT Protocol 已在部署在BSC及Filecoin当中，后续将推出应用链服务。
