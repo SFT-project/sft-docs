@@ -5,7 +5,7 @@
 {% endhint %}
 
 目前，SFT协议正在寻求第一轮安全审计，并发布了**漏洞赏金计划**，以增强SFT协议合约的安全性并保护用户资金安全。\
-最新的审计进度和结果，将同步到[官网](https://www.sftproject.io/)、[Twitter](https://twitter.com/SFTProtocol)等社交媒体。
+最新的审计进度和结果，将同步到[**官网**](https://www.sftproject.io/)、[**Twitter**](https://twitter.com/SFTProtocol)等社交媒体。
 
 ## 💵成立储备金
 
