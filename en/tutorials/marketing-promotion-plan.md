@@ -14,7 +14,7 @@ SPD (SFT Protocol DAO) is the governance token of the SFT Protocol. It has proto
 As the project is in its early stages, we define rSPD as the future score of SPD, which can be exchanged at a 1:1 ratio. In order to ensure the long-term development of the SFT protocol, we will reward those who contribute to the project with rSPD.
 {% endhint %}
 
-## 1. Reward for Inviting Friends
+## 1. Reward for Inviting Friends🙋‍♀️
 
 **Gameplay:** Referrers will receive rSPD rewards based on the amount of stake made by the referred person through the referral link. The reward amount is directly proportional to the accumulated stake. The higher the accumulated stake and referral level, the more generous the reward.
 
@@ -32,7 +32,7 @@ As the project is in its early stages, we define rSPD as the future score of SPD
 
 Settlement Time: Stake now, claim rewards immediately! The level and rewards are updated daily and automatically settled by the smart contract.
 
-## 2. First-time Staking Reward
+## 2. First-time Staking Reward💰
 
 **Gameplay:** Until August 31, users who stake more than 50 FIL for the first time will immediately receive a staking reward of 200 rSPD.
 
