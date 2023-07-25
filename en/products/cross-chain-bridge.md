@@ -4,4 +4,4 @@
 
 The SFT Protocol cross-chain bridge is a cross-chain tool that helps users transfer assets between BSC and Filecoin.
 
-The current assets that can be crossed are: SFT; others.
+The current assets that can be crossed are SFT and others.

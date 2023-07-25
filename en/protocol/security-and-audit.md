@@ -6,7 +6,7 @@ Since the creation of the SFT protocol, we have always focused on the security o
 
 Currently, SFT Protocol is seeking the first round of security audits and has launched a bug bounty program to enhance the security of SFT Protocol contracts and protect user funds.
 
-The latest audit progress and results will be synchronized to the [official website](https://www.sftproject.io/), [Twitter](https://twitter.com/SFTProtocol), and other social media.
+The latest audit progress and results will be synchronized to the [**official website**](https://www.sftproject.io/), [**Twitter**](https://twitter.com/SFTProtocol), and other social media.
 
 ## 💵 Establishment of Reserve Fund
 

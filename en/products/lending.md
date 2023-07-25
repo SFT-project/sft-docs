@@ -2,24 +2,24 @@
 
 <figure><img src="../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
 
-### 1. Operation and Conditions
+## 1. Operation and Conditions
 
 The launch of the lending function provides users with leverage stake mining and flexible capital needs.
 
 * Step 1 - SFT holders need to stake SFT to the fixed-term farm for six months.
 * Step 2 - Borrow FIL according to the amount of staked SFT.
 
-### 2. Loan-to-Value Ratio
+## 2. Loan-to-Value Ratio
 
 The maximum loan-to-value ratio is 60%. Users can borrow FIL based on their own needs, not exceeding 60%. Under the maximum ratio of less than 60%, FIL can be borrowed multiple times.
 
-### 3. Interest Calculation
+## 3. Interest Calculation
 
 The borrower does not need to pay any interest. For example, if the user borrows 100 FIL, only 100 FIL needs to be repaid when returning.
 
 <figure><img src="../.gitbook/assets/6.png" alt="" width="563"><figcaption></figcaption></figure>
 
-### 4. Explanation of SFT equity staked for borrowing FIL
+## 4. Explanation of SFT equity staked for borrowing FIL
 
 When the user borrows FIL and stakes SFT, the mining revenue rights of that part of SFT will be transferred to the Pool pool.&#x20;
 
