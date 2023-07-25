@@ -5,4 +5,5 @@
 * **Telegram:**[ ](https://t.me/stfil\_io)[**https://t.me/SFTProtocol**](https://t.me/SFTProtocol)
 * **Telegram Chinese:** [**https://t.me/SFTChinese**](https://t.me/SFTChinese)
 * **Medium:**[ ](https://medium.com/@STFIL\_Protocol)[**https://sftprotocol.medium.com/**](https://sftprotocol.medium.com/)
+* **Medium Chinese:** [**https://sftcn.medium.com/**](https://sftcn.medium.com/)
 * **Email: team@sftproject.io**
