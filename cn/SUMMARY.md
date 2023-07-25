@@ -27,17 +27,17 @@
 ## 教程
 
 * [📑 产品操作教程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/README.md)
-  * [质押FIL到封装节点](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/README.md)
+  * [质押 FIL 到封装节点](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/README.md)
     * [FVM](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/fvm.md)
     * [BSC](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/bsc.md)
-  * [质押FIL到Pool](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-pool.md)
+  * [质押 FIL 到 Pool](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-pool.md)
   * [农场质押及收益](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/nong-chang-zhi-ya-ji-shou-yi.md)
   * [赎回流程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/shu-hui-liu-cheng.md)
-  * [Pool借贷流程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/pool-jie-dai-liu-cheng.md)
+  * [Pool 借贷流程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/pool-jie-dai-liu-cheng.md)
 * [🪙 地址与钱包](jiao-cheng/di-zhi-yu-qian-bao/README.md)
-  * [TP钱包使用方法](jiao-cheng/di-zhi-yu-qian-bao/tp-qian-bao-shi-yong-fang-fa.md)
+  * [TP 钱包使用方法](jiao-cheng/di-zhi-yu-qian-bao/tp-qian-bao-shi-yong-fang-fa.md)
   * [小狐狸钱包使用方法](jiao-cheng/di-zhi-yu-qian-bao/xiao-hu-li-qian-bao-shi-yong-fang-fa.md)
-  * [FEVM地址说明](jiao-cheng/di-zhi-yu-qian-bao/fevm-di-zhi-shuo-ming.md)
+  * [FEVM 地址说明](jiao-cheng/di-zhi-yu-qian-bao/fevm-di-zhi-shuo-ming.md)
 * [🔊 市场推广计划](jiao-cheng/shi-chang-tui-guang-ji-hua.md)
 
 ## 技术文档
