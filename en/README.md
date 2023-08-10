@@ -4,6 +4,10 @@
 SFT Protocol aims to promote global economic development, social change, and technological innovation by providing LSD, Web3 infrastructure, high-value data storage, and application services to global users.
 {% endhint %}
 
+{% embed url="https://youtu.be/FOyv43DGH48" %}
+SFT Protocol Introduction
+{% endembed %}
+
 ## **1. LSD**
 
 Proof-of-Stake (PoS) blockchain is more energy-efficient than Proof-of-Work (PoW) consensus mechanisms. However, holders staking tokens also incur a certain cost as they have to lock up their assets for a period of time, which may lead to missed profit opportunities. SFT Protocol provides liquidity staking through tokenization. Initially applied to Filecoin, it solves the problem of low liquidity during long-term staking periods. The protocol will also be applied to other public chains such as Ethereum.
@@ -27,7 +31,5 @@ With the expansion of AI tools and services, we improve the user experience, tra
 By integrating with the Filecoin storage network, we provide secure, reliable, and efficient decentralized storage solutions for AI.
 
 In addition to empowering AI, SFT Protocol will continue to serve Web3 and be deployed on new public chains that emerge in the future.
-
-
 
 **Currently, SFT Protocol has been deployed on BSC and Filecoin, and application chain services will be launched subsequently.**
