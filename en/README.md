@@ -4,7 +4,7 @@
 SFT Protocol aims to promote global economic development, social change, and technological innovation by providing LSD, Web3 infrastructure, high-value data storage, and application services to global users.
 {% endhint %}
 
-{% embed url="https://youtu.be/FOyv43DGH48" %}
+{% embed url="https://youtu.be/FOyv43DGH48&autoplay=1" %}
 
 ## **1. LSD**
 
