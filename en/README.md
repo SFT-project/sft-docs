@@ -5,8 +5,6 @@ SFT Protocol aims to promote global economic development, social change, and tec
 {% endhint %}
 
 {% embed url="https://youtu.be/FOyv43DGH48" %}
-SFT Protocol Introduction
-{% endembed %}
 
 ## **1. LSD**
 
