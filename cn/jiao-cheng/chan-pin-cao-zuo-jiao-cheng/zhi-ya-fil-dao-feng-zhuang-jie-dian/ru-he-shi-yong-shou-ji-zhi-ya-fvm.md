@@ -1,7 +1,7 @@
-# FVM
+# 如何使用手机质押-FVM
 
 {% hint style="info" %}
-TP Wallet是一个流行的去中心化加密钱包，拥有数百万用户。目前该钱包支持Filecoin FVM，用户可使用TP Wallet轻松加入Filecoin 2.0。本教程基于TP Wallet手机版本。
+Imtoken、Bitpie钱包暂不支持FVM链，仅支持BSC链操作，建议使用TP Wallet钱包。目前该钱包支持Filecoin FVM，用户可使用TP Wallet轻松加入Filecoin 2.0。本教程基于TP Wallet手机版本。
 {% endhint %}
 
 #### 1、在手机上下载TP Wallet：[https://www.tokenpocket.pro/zh/download/app](https://www.tokenpocket.pro/zh/download/app)，根据手机型号进入安卓或IOS版本的下载链接。

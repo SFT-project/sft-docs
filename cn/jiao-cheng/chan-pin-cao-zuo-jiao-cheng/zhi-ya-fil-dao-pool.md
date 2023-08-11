@@ -1,3 +1,2 @@
-# 质押FIL到Pool
+# 质押 FIL 到 Pool
 
-待更新
