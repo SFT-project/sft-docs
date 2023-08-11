@@ -1,4 +1,4 @@
-# 1、创建-FVM账户地址
+# 创建-FVM账户地址
 
 {% hint style="info" %}
 Imtoken、Bitpie钱包暂不支持FVM链，仅支持BSC链操作，建议使用TP Wallet钱包。目前该钱包支持Filecoin FVM，用户可使用TP Wallet轻松加入Filecoin 2.0。本教程基于TP Wallet手机版本。
