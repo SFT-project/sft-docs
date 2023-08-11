@@ -1,11 +1,13 @@
 ---
 description: >-
-  SFT协议的一个核心特性就是其“农场”机制。目前的农场主要分为6个月定期质押和活期质押两种形式。在6个月定期农场中，用户只需将SFT质押到农场池中，即可享受年化收益率20%-35%的每日浮动收益，而质押的SFT需要在6个月后才能解锁。另一方面，活期农场提供的固定年化收益为10%，用户可以随时赎回SFT，无时间限制，这大大提升了资产的灵活性
+  SFT协议的一个核心特性就是其“农场”机制。目前的农场主要分为6个月“定期质押”和“活期质押”两种形式。在6个月定期农场中，即可享受年化收益率20%-35%的每日浮动收益。活期农场：固定年化收益为10%，随时赎回。
 ---
 
 # 4、质押SFT
 
 ![](https://lh4.googleusercontent.com/IMf4WtxX4qmSWrgmjMiN0uqHGRJg6ADjoCzKPnYTTrWKT3q8xGNfOes0XyG0u0iZ1sDQUDvQcRR25UnW5\_ITDV257ECGmvqF2ld5KUUztuvevLzF3VVucN8uDNoW5nQjdsm7rRBJNJDdRjyT0DqYPS8)
+
+
 
 ![](https://lh4.googleusercontent.com/uZDV2REQS1fY0LVuZXGW3H9APT0\_OWbK6fdGFwhCghKAIZKGqoCNBC2\_URzYj4DlRnDEjOXNmZUI6gY7ICProAfIkh5KjP0lLoUMYe9CE0EBN6S3EZ\_dQ7UX-M9zlm2wGkFU-VilhCDX1fuLJRBQsfc)
 
