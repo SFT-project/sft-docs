@@ -28,7 +28,7 @@
 
 * [📑 产品操作教程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/README.md)
   * [质押 FIL 到封装节点](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/README.md)
-    * [如何使用手机质押-FVM](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/ru-he-shi-yong-shou-ji-zhi-ya-fvm.md)
+    * [创建-FVM账户地址](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/chuang-jian-fvm-zhang-hu-di-zhi.md)
     * [BSC](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/bsc.md)
   * [质押 FIL 到 Pool](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-pool.md)
   * [农场质押及收益](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/nong-chang-zhi-ya-ji-shou-yi.md)
