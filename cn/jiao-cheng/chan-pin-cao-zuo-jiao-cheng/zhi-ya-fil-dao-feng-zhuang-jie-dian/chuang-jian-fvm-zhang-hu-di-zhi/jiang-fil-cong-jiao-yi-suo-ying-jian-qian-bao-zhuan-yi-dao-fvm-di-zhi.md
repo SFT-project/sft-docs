@@ -18,3 +18,7 @@ description: 如何转账到 0x/f4 钱包  介绍如何从不支持0x/f4的交�
 #### 安装FoxWallet应用程序[​](https://docs.stfil.io/docs/guides/fevm/transferto0xf4wallet#install-foxwallet-app)
 
 FoxWallet下载链接：[https://foxwallet.com/](https://foxwallet.com/)
+
+## 3、操作举例
+
+![](https://lh5.googleusercontent.com/atwDThHcEJUTqGbWJXgPtl64FI4sOVgvc5t8eZd4ozDwz0wN7Tarq1mYZmA-RNw-lYc2KYieAwJEHm6iK7WPCwOYeLLhVmNQtz6lh8nj60l4XPUxLBiPbu59ZFfleclZT5\_2Wx25RSQfncOyhWPqsDg)
