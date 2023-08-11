@@ -14,6 +14,10 @@
 
 #### 在BSC链上，目前只能进行铸造SFT，农场SFT质押。
 
+当前的V2版本，只支持FVM链的FIL赎回、FIL借贷、FIL提供等，BSC的用户想要参与到这些功能当中，需要进行跨链操作，用户需要将SFT从BSC跨链到FVM上面，来实现赎回，借贷等功能。
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 
 
 #### SFT在FVM、BSC上，具有相同的收益权。FVM上的地址，获得的是FVM上的FIL奖励。BSC上，获得的是BSC上的FIL奖励。
