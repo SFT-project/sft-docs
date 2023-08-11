@@ -32,6 +32,7 @@
     * [Filecoin-FVM质押](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/filecoinfvm-zhi-ya/README.md)
       * [1、创建-FVM账户地址](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/chuang-jian-fvm-zhang-hu-di-zhi/README.md)
       * [2、将FIL从交易所/硬件钱包转移到FVM地址](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/chuang-jian-fvm-zhang-hu-di-zhi/jiang-fil-cong-jiao-yi-suo-ying-jian-qian-bao-zhuan-yi-dao-fvm-di-zhi.md)
+      * [3、铸造SFT](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/filecoinfvm-zhi-ya/3-zhu-zao-sft.md)
   * [质押 FIL 到 Pool](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-pool.md)
   * [农场质押及收益](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/nong-chang-zhi-ya-ji-shou-yi.md)
   * [赎回流程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/shu-hui-liu-cheng.md)
