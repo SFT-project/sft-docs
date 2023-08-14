@@ -24,3 +24,7 @@ FIL流动性提供教程：[ru-he-ti-gong-fil-dao-pool-liu-dong-chi.md](../jiao-
 
 
 <figure><img src="../.gitbook/assets/15 (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+## 3. 具体操作教程：
+
+{% embed url="https://docs.sftproject.io/v/sft-protocol-cn/jiao-cheng/chan-pin-cao-zuo-jiao-cheng" %}
