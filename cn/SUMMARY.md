@@ -1,6 +1,8 @@
 # Table of contents
 
 * [SFT Protocol](README.md)
+  * [🎙 市场推广2.0活动](sft-protocol/shi-chang-tui-guang-2.0-huo-dong.md)
+  * [🔊 市场推广1.0活动](sft-protocol/shi-chang-tui-guang-1.0-huo-dong.md)
 
 ## 协议
 
@@ -42,13 +44,9 @@
 
 ## 技术文档
 
-* [技术架构](ji-shu-wen-dang/ji-shu-jia-gou.md)
 * [智能合约](ji-shu-wen-dang/zhi-neng-he-yue.md)
+* [技术架构](ji-shu-wen-dang/ji-shu-jia-gou.md)
 * [技术说明](ji-shu-wen-dang/ji-shu-shuo-ming/README.md)
   * [LendingPool 合约](ji-shu-wen-dang/ji-shu-shuo-ming/lendingpool-he-yue.md)
   * [Swap 合约](ji-shu-wen-dang/ji-shu-shuo-ming/swap-he-yue.md)
   * [Reward 合约](ji-shu-wen-dang/ji-shu-shuo-ming/reward-he-yue.md)
-
-## 市场推广
-
-* [🔊 市场推广计划](shi-chang-tui-guang/shi-chang-tui-guang-ji-hua.md)
