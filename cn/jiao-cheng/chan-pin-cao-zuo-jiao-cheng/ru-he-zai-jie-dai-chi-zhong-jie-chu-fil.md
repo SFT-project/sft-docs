@@ -1,5 +1,7 @@
 # 如何在Pool借贷池中借出FIL
 
+#### &#x20;    如果教程依然没有能够帮助到您，您还可以进入社群，联系社区管理员，24小时为您解答，使用过程的任何问题。**Telegram 中文:** [**https://t.me/SFTChinese**](https://t.me/SFTChinese)
+
 #### 为了进一步提升FIL的使用率，SFT协议引入了一种创新的借贷功能。
 
 用户可以根据其**正在质押的6个月定期的SFT数量**进行FIL借贷，最大的借贷系数为**60%**，且用户无需承担借贷利息。这一设计不仅提高了FIL的使用效率，同时也避免了用户承担高额利息的压力。更多信息可查看（需VPN）：[https://sftcn.medium.com/sft-%E5%8D%8F%E8%AE%AE-2-0-%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90-%E4%B8%89-fil%E6%B5%81%E5%8A%A8%E6%B1%A0%E4%B8%AD-%E5%80%9F%E6%AC%BE-%E4%B8%8E-%E8%BF%98%E6%AC%BE-%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D%E8%AF%B4%E6%98%8E-ca76cc71d32e](https://sftcn.medium.com/sft-%E5%8D%8F%E8%AE%AE-2-0-%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90-%E4%B8%89-fil%E6%B5%81%E5%8A%A8%E6%B1%A0%E4%B8%AD-%E5%80%9F%E6%AC%BE-%E4%B8%8E-%E8%BF%98%E6%AC%BE-%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D%E8%AF%B4%E6%98%8E-ca76cc71d32e)

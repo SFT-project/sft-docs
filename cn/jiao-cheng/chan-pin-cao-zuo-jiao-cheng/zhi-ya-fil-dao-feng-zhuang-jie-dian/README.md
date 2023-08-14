@@ -16,7 +16,7 @@
 
 当前的V2版本，只支持FVM链的FIL赎回、FIL借贷、FIL提供等，BSC的用户想要参与到这些功能当中，需要进行跨链操作，用户需要将SFT从BSC跨链到FVM上面，来实现赎回，借贷等功能。
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 

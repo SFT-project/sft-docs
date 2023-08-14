@@ -2,9 +2,9 @@
 description: 如何将FIL质押到流动池（Pool）？
 ---
 
-# 质押 FIL 到 Pool流动池
+# 如何提供 FIL 到 Pool流动池
 
-如果教程依然没有能够帮助到您，您还可以进入社群，联系社区管理员，24小时为您解答，使用过程的任何问题。**Telegram 中文:** [**https://t.me/SFTChinese**](https://t.me/SFTChinese)
+#### &#x20;    如果教程依然没有能够帮助到您，您还可以进入社群，联系社区管理员，24小时为您解答，使用过程的任何问题。**Telegram 中文:** [**https://t.me/SFTChinese**](https://t.me/SFTChinese)
 
 为Pool流动池提供FIL，提供者将享受复利APY的收益，收益的高低，根据Pool资金使用率相关，APY的浮动收益范围在10%-58%的币本位收益。
 

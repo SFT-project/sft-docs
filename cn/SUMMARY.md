@@ -37,6 +37,7 @@
     * [BSC-质押流程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/bsc-zhi-ya-liu-cheng.md)
   * [如何提供 FIL 到 Pool流动池](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/ru-he-ti-gong-fil-dao-pool-liu-dong-chi.md)
   * [如何在Pool借贷池中借出FIL](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/ru-he-zai-jie-dai-chi-zhong-jie-chu-fil.md)
+  * [如何使用SFT赎回FIL](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/ru-he-shi-yong-sft-shu-hui-fil.md)
 * [🪙 地址与钱包](jiao-cheng/di-zhi-yu-qian-bao/README.md)
   * [TP 钱包使用方法](jiao-cheng/di-zhi-yu-qian-bao/tp-qian-bao-shi-yong-fang-fa.md)
   * [小狐狸钱包使用方法](jiao-cheng/di-zhi-yu-qian-bao/xiao-hu-li-qian-bao-shi-yong-fang-fa.md)
