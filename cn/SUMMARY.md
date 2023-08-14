@@ -38,7 +38,7 @@
   * [二、如何提供 FIL 到 Pool流动池](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/er-ru-he-ti-gong-fil-dao-pool-liu-dong-chi.md)
   * [三、如何在Pool借贷池中借出FIL](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/san-ru-he-zai-pool-jie-dai-chi-zhong-jie-chu-fil.md)
   * [四、如何使用SFT赎回FIL](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/si-ru-he-shi-yong-sft-shu-hui-fil.md)
-* [🪙 FVM,BSC地址与钱包选择](jiao-cheng/fvmbsc-di-zhi-yu-qian-bao-xuan-ze.md)
+* [🪙 FVM,BSC地址与钱包说明](jiao-cheng/fvmbsc-di-zhi-yu-qian-bao-shuo-ming.md)
 * [🔊 市场推广计划](jiao-cheng/shi-chang-tui-guang-ji-hua.md)
 
 ## 技术文档
