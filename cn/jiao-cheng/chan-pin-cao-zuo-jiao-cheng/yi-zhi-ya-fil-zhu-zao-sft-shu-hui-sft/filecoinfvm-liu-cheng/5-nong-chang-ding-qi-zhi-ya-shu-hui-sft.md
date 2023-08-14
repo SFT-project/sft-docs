@@ -1,0 +1,24 @@
+# 5、农场定期质押-赎回SFT
+
+#### 1.打开Dapp
+
+![](https://lh5.googleusercontent.com/V-QGelaa8kyal4KirtGYFVZ13J-sPKg0IBtIMuhlQjRoYbWcWqLTKari3lVklSvbNsghZAz\_kR1lNANXzauiLfjtSocC2sjX068o-4y40XTlWBpLXkopseD9GJc7T\_pH-x49vzJl5k3seOZMKRc0FOU)
+
+![](https://lh4.googleusercontent.com/DPbjBIf89BgLmAYrmaD-WROTP7W4unHheR\_1RQCxiKXO23nGLiEss6bwMenlAOuJd0TbwtJggic712LODMXX86P85AafHhhwrUDLGr0zGja3iuA1KvxRiRAinssaH0NrwE2MwaeqTsCjxDPrI5b1Mkk)
+
+![](https://lh6.googleusercontent.com/a7fyd7hvuX0UZdBz7rqWNKA\_Go3ioyLtPtRva3chk6LK4IFoHu-ZcPNxiEei6A4RX61ZxIXN4aQ9Yg2z9OzPykHWNVlcYF9OUv0LZhfu-75z7J7a9epVdcPspF2ztAUPJ7yYVcZpE6Oveot8R1kCd18)
+
+![](https://lh4.googleusercontent.com/MsiiXZpHIGuTZhDJdSNN309g6DJ\_ws5I8SUHgTXOpwZ5tybfk1DTDMjLpmLb8xvCNNf0ReHoXnrXRQhfW\_PNebVHVSti6CBfgX34WtI1tK4QGd3Pwvt2dlqAeEF0ivJEp8Zq1\_G5aDWU1kUA\_T96NjA)
+
+![](https://lh6.googleusercontent.com/RxJpFgZbqX1Gc1knolICbcSRQFZQ6Wzvb\_31mjYbxCJX3LA1RM1lEEudY\_Px88AHIFzs3od0Br6-YYzX49F4Fm3SU9s81ovGPXU98cNOEWbzMlP4UNWe4V8jisvzUHcYN-HI1yGUIINLOTIy4xnaaSk)
+
+![](https://lh6.googleusercontent.com/MJwv4FJ\_yhCA5Ut1l5iQKFBCuFoBh9YihphGH1UHPx2bTZzQxlOTnmOeYbxepuZjixcqXP\_cJ6Yonjtg6qleCUi-zNKTWH\_NhgKTQ3L6uHBO61UQ88HxtqotBvEbKRDpQDVyz3eshdb6QLp2UBi54xo)
+
+### 2.赎回操作
+
+![](https://lh4.googleusercontent.com/FK7bF3ADI0AKF3zKLpIlYZ0gx5k2Uw6LD4x2kT5Japq\_rocfDep3vKEpVGhfiaKYP4I1i3ToZDZfHzTdFl2uaEUWmJrfiSG8JP5HxVW-LjhEjYDsUHD-iNHYKhyLVyaWU2SMelFfs99fANGZs7KvStw)
+
+![](https://lh4.googleusercontent.com/aFYJCLTKwGffDGfiwzLKnA9wHd0eNNQ84eimEAlSl-LBxXk4\_-Y-AcWFYDnr7NoFuMAYEHUINDhwH\_0DJkpGTi2oqU6Fz\_dsq8cV6p4fxAF1tGVMRfRUFVWStqBlipsjlL9YrHgGgTM77KfBl4MvEhs)
+
+![](https://lh5.googleusercontent.com/QO-fgVq6NnyCnNzUQjanEKnuA0i1mjCnwEIYuWEeLL6At3XU49Y\_M7tJeuv0nNyNdHxcXFas-gQViHOd23n6PhO574H0nppRk0Is2VL\_lgqDtBTSx\_X25cSbmHjj1OL9AMY9Dc-kzmMWoSXd1517NX0)
+
