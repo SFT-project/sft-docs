@@ -10,12 +10,12 @@
 
 ## 产品
 
-* [🔨 质押铸造](chan-pin/zhi-ya-zhu-zao.md)
-* [🔑 赎回](chan-pin/shu-hui.md)
-* [💰 农场](chan-pin/nong-chang.md)
-* [🚰 提供流动性](chan-pin/ti-gong-liu-dong-xing.md)
-* [📈 借贷](chan-pin/jie-dai.md)
-* [⛓ 跨链桥](chan-pin/kua-lian-qiao.md)
+* [🔨 质押铸造SFT](chan-pin/zhi-ya-zhu-zao-sft.md)
+* [🔑 赎回FIL](chan-pin/shu-hui-fil.md)
+* [💰 农场Farm](chan-pin/nong-chang-farm.md)
+* [🚰 提供Pool流动性](chan-pin/ti-gong-pool-liu-dong-xing.md)
+* [📈 借贷 Lending](chan-pin/jie-dai-lending.md)
+* [⛓ 跨链桥rBridge](chan-pin/kua-lian-qiao-rbridge.md)
 * [☁ RPC 云](chan-pin/rpc-yun.md)
 
 ## 合作者
@@ -34,7 +34,7 @@
       * [3、铸造SFT](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/filecoinfvm-zhi-ya-liu-cheng/3-zhu-zao-sft.md)
       * [4、质押SFT](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/filecoinfvm-zhi-ya-liu-cheng/4-zhi-ya-sft.md)
     * [BSC-质押流程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/bsc-zhi-ya-liu-cheng.md)
-  * [质押 FIL 到 Pool](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-pool.md)
+  * [质押 FIL 到 Pool流动池](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-pool-liu-dong-chi.md)
   * [农场质押及收益](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/nong-chang-zhi-ya-ji-shou-yi.md)
   * [赎回流程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/shu-hui-liu-cheng.md)
   * [Pool 借贷流程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/pool-jie-dai-liu-cheng.md)
