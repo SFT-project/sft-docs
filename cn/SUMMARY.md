@@ -39,7 +39,6 @@
   * [三、如何在Pool借贷池中借出FIL](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/san-ru-he-zai-pool-jie-dai-chi-zhong-jie-chu-fil.md)
   * [四、如何使用SFT赎回FIL](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/si-ru-he-shi-yong-sft-shu-hui-fil.md)
 * [🪙 FVM,BSC地址与钱包说明](jiao-cheng/fvmbsc-di-zhi-yu-qian-bao-shuo-ming.md)
-* [🔊 市场推广计划](jiao-cheng/shi-chang-tui-guang-ji-hua.md)
 
 ## 技术文档
 
@@ -50,7 +49,6 @@
   * [Swap 合约](ji-shu-wen-dang/ji-shu-shuo-ming/swap-he-yue.md)
   * [Reward 合约](ji-shu-wen-dang/ji-shu-shuo-ming/reward-he-yue.md)
 
-***
+## 市场推广
 
-* [Import](import/README.md)
-  * [如何转账到 0x/f4 钱包](import/ru-he-zhuan-zhang-dao-0xf4-qian-bao.md)
+* [🔊 市场推广计划](shi-chang-tui-guang/shi-chang-tui-guang-ji-hua.md)
