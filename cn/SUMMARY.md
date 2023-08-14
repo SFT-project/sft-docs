@@ -11,7 +11,7 @@
 ## 产品
 
 * [🔨 质押铸造SFT](chan-pin/zhi-ya-zhu-zao-sft.md)
-* [🔑 赎回FIL](chan-pin/shu-hui-fil.md)
+* [🔑 持有SFT赎回FIL](chan-pin/chi-you-sft-shu-hui-fil.md)
 * [💰 农场Farm](chan-pin/nong-chang-farm.md)
 * [🚰 提供Pool流动性](chan-pin/ti-gong-pool-liu-dong-xing.md)
 * [📈 借贷 Lending](chan-pin/jie-dai-lending.md)
@@ -27,21 +27,18 @@
 ## 教程
 
 * [📑 产品操作教程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/README.md)
-  * [质押 FIL 到封装节点](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/README.md)
-    * [Filecoin-FVM质押流程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/filecoinfvm-zhi-ya-liu-cheng/README.md)
-      * [1、创建-FVM账户地址](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/filecoinfvm-zhi-ya-liu-cheng/1-chuang-jian-fvm-zhang-hu-di-zhi.md)
-      * [2、将FIL从交易所/硬件钱包转移到FVM地址](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/filecoinfvm-zhi-ya-liu-cheng/2-jiang-fil-cong-jiao-yi-suo-ying-jian-qian-bao-zhuan-yi-dao-fvm-di-zhi.md)
-      * [3、铸造SFT](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/filecoinfvm-zhi-ya-liu-cheng/3-zhu-zao-sft.md)
-      * [4、质押SFT](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/filecoinfvm-zhi-ya-liu-cheng/4-zhi-ya-sft.md)
-      * [5、赎回SFT](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/filecoinfvm-zhi-ya-liu-cheng/5-shu-hui-sft.md)
-    * [BSC-质押流程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-dao-feng-zhuang-jie-dian/bsc-zhi-ya-liu-cheng.md)
+  * [质押 FIL -铸造SFT](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-zhu-zao-sft/README.md)
+    * [Filecoin-FVM质押流程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-zhu-zao-sft/filecoinfvm-zhi-ya-liu-cheng/README.md)
+      * [1、创建-FVM账户地址](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-zhu-zao-sft/filecoinfvm-zhi-ya-liu-cheng/1-chuang-jian-fvm-zhang-hu-di-zhi.md)
+      * [2、将FIL从交易所/硬件钱包转移到FVM地址](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-zhu-zao-sft/filecoinfvm-zhi-ya-liu-cheng/2-jiang-fil-cong-jiao-yi-suo-ying-jian-qian-bao-zhuan-yi-dao-fvm-di-zhi.md)
+      * [3、铸造SFT](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-zhu-zao-sft/filecoinfvm-zhi-ya-liu-cheng/3-zhu-zao-sft.md)
+      * [4、质押SFT](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-zhu-zao-sft/filecoinfvm-zhi-ya-liu-cheng/4-zhi-ya-sft.md)
+      * [5、赎回SFT](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-zhu-zao-sft/filecoinfvm-zhi-ya-liu-cheng/5-shu-hui-sft.md)
+    * [BSC-质押流程](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/zhi-ya-fil-zhu-zao-sft/bsc-zhi-ya-liu-cheng.md)
   * [如何提供 FIL 到 Pool流动池](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/ru-he-ti-gong-fil-dao-pool-liu-dong-chi.md)
   * [如何在Pool借贷池中借出FIL](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/ru-he-zai-jie-dai-chi-zhong-jie-chu-fil.md)
   * [如何使用SFT赎回FIL](jiao-cheng/chan-pin-cao-zuo-jiao-cheng/ru-he-shi-yong-sft-shu-hui-fil.md)
-* [🪙 地址与钱包](jiao-cheng/di-zhi-yu-qian-bao/README.md)
-  * [TP 钱包使用方法](jiao-cheng/di-zhi-yu-qian-bao/tp-qian-bao-shi-yong-fang-fa.md)
-  * [小狐狸钱包使用方法](jiao-cheng/di-zhi-yu-qian-bao/xiao-hu-li-qian-bao-shi-yong-fang-fa.md)
-  * [FEVM 地址说明](jiao-cheng/di-zhi-yu-qian-bao/fevm-di-zhi-shuo-ming.md)
+* [🪙 FVM,BSC地址与钱包选择](jiao-cheng/fvmbsc-di-zhi-yu-qian-bao-xuan-ze.md)
 * [🔊 市场推广计划](jiao-cheng/shi-chang-tui-guang-ji-hua.md)
 
 ## 技术文档
