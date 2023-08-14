@@ -1,4 +1,10 @@
-# BSC
+---
+description: >-
+  如果教程依然没有能够帮助到您，您还可以进入社群，联系社区管理员，24小时为您解答，使用过程的任何问题。 Telegram 中文:
+  https://t.me/SFTChinese
+---
+
+# BSC-质押流程
 
 {% hint style="info" %}
 TP Wallet是一个流行的去中心化加密钱包，拥有数百万用户。该钱包支持BSC和Filecoin FVM，用户可使用TP Wallet轻松参与SFT Protocol。本教程基于TP Wallet手机版本。
