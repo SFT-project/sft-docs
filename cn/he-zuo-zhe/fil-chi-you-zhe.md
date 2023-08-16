@@ -8,7 +8,7 @@ description: 对于FIL持有者，可以用以下两种方式参与到SFT Protoc
 
 用户可以在BSC和Filecoin的FVM上，在Mint页面中，使用FIL进行质押到封装节点，链上合约将会铸造出同等数量的SFT(活动期间)，参与节点联合挖矿。FIL持有者与设备提供商，双方5:5共享挖矿收益。
 
-质押教程：[yi-zhi-ya-fil-zhu-zao-sft-shu-hui-sft](../jiao-cheng/chan-pin-cao-zuo-jiao-cheng/yi-zhi-ya-fil-zhu-zao-sft-shu-hui-sft/ "mention")
+质押教程：[yi-zhi-ya-fil-zhu-zao-sft-shu-hui-sft](../jiao-cheng/sft-xie-yi-chan-pin-cao-zuo-jiao-cheng/yi-zhi-ya-fil-zhu-zao-sft-shu-hui-sft/ "mention")
 
 <figure><img src="../.gitbook/assets/14.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@ FIL持有者，提供流动性到Pool池中，赚取FIL币本位APY10%-58%的收
 什么是Pool？SFT Protocol在Filecoin的FVM上推出的流动性质押和杠杆挖矿流动性池。它使 $FIL 代币持有者能够在没有锁定期的情况下获得稳定的收益，并为FIL需求者提供流动性借贷。
 {% endhint %}
 
-FIL流动性提供教程：[er-ru-he-ti-gong-fil-dao-pool-liu-dong-chi.md](../jiao-cheng/chan-pin-cao-zuo-jiao-cheng/er-ru-he-ti-gong-fil-dao-pool-liu-dong-chi.md "mention")\
+FIL流动性提供教程：[1-liu-dong-chi-poolfil-ti-gong.md](../jiao-cheng/sft-xie-yi-chan-pin-cao-zuo-jiao-cheng/er-pool-liu-dong-chi-cao-zuo-jiao-cheng/1-liu-dong-chi-poolfil-ti-gong.md "mention")\
 
 
 <figure><img src="../.gitbook/assets/15 (1).png" alt="" width="563"><figcaption></figcaption></figure>
