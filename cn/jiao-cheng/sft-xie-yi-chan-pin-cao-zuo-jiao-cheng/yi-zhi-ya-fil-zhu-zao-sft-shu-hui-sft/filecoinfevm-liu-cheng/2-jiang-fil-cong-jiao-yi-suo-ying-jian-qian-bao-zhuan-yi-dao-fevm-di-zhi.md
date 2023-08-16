@@ -2,7 +2,7 @@
 description: 如何转账到 0x/f4 钱包  介绍如何从不支持0x/f4的交易所/硬件钱包转移到0x/f4钱包
 ---
 
-# 2、将FIL从交易所/硬件钱包转移到FVM地址
+# 2、将FIL从交易所/硬件钱包转移到FEVM地址
 
 ## 1、推荐使用：OKX欧易交易所&#x20;
 
@@ -13,7 +13,7 @@ description: 如何转账到 0x/f4 钱包  介绍如何从不支持0x/f4的交�
 
 
 
-## 2、使用FoxWallet进行转移[​](https://docs.stfil.io/docs/guides/fevm/transferto0xf4wallet#transit-using-foxwallet)，Filecoin->FVM
+## 2、使用FoxWallet进行转移[​](https://docs.stfil.io/docs/guides/fevm/transferto0xf4wallet#transit-using-foxwallet)，Filecoin->FEVM
 
 #### 安装FoxWallet应用程序[​](https://docs.stfil.io/docs/guides/fevm/transferto0xf4wallet#install-foxwallet-app)
 

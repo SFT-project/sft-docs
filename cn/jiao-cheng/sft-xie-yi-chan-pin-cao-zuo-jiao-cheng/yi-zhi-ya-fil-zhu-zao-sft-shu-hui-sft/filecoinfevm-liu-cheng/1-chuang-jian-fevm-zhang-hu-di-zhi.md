@@ -1,7 +1,7 @@
-# 创建-FVM账户地址
+# 1、创建-FEVM账户地址
 
 {% hint style="info" %}
-Imtoken、Bitpie钱包暂不支持FVM链，仅支持BSC链操作，建议使用TP Wallet钱包。目前该钱包支持Filecoin FVM，用户可使用TP Wallet轻松加入Filecoin 2.0。本教程基于TP Wallet手机版本。
+Imtoken、Bitpie钱包暂不支持FEVM链，仅支持BSC链操作，建议使用TP Wallet钱包。目前该钱包支持Filecoin FEVM，用户可使用TP Wallet轻松加入Filecoin 2.0。本教程基于TP Wallet手机版本。
 {% endhint %}
 
 使用手机设置 0x/f4 钱包
@@ -16,7 +16,7 @@ Imtoken、Bitpie钱包暂不支持FVM链，仅支持BSC链操作，建议使用T
 
 TP Wallet 是一个流行的去中心化加密钱包，拥有数百万用户。目前该钱包支持 Filecoin
 
-FVM，用户可使用 TP Wallet 轻松加入 SFT协议2.0。本教程基于 TP Wallet IOS版本。
+FEVM，用户可使用 TP Wallet 轻松加入 SFT协议2.0。本教程基于 TP Wallet IOS版本。
 
 \
 
