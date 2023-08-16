@@ -1,10 +1,10 @@
-# 🪙 FVM,BSC地址与钱包选择
+# 🪙 FEVM,BSC地址与钱包说明
 
-## 1、FVM地址说明： &#x20;
+## 1、FEVM地址说明： &#x20;
 
 #### &#x20;  FEVM地址是 0x或f4地址开头的地址。因此，要将Filecoin本链f1开头的地址，转入到0x或f4开头的FEVM地址上，才能参与SFT Protocol相关V2-DAPP应用。
 
-Imtoken、Bitpie钱包暂不支持FVM链，仅支持BSC链操作，针对FVM地址，建议用户使用TP Wallet钱包或者Metamask小狐狸钱包。
+Imtoken、Bitpie钱包暂不支持FVM链，仅支持BSC链操作，针对FEVM地址，建议用户使用TP Wallet钱包或者Metamask小狐狸钱包。
 
 #### 1.1 具体的操作方法：
 
