@@ -1,8 +1,6 @@
 # 🎁 🎁SFT大使推广计划：加入获取每日$FIL空投
 
-
-
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1_0ZpIi5wUHxqhwm6MJud71Q (1).webp" alt=""><figcaption></figcaption></figure>
 
 ## _一、阳光普照奖励活动（空投10 $FIL）_ <a href="#e8d7" id="e8d7"></a>
 
@@ -20,7 +18,9 @@
 
 3\. SFT星级大使（一星至五星大使为星级大使）的推荐收益每日持续发放，直到被推荐人质押的SFT解锁完。
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/1_XNd-Wi-mPmJ1QbaA4BRe1A.webp" alt=""><figcaption></figcaption></figure>
 
 ## _二、 大使推荐奖励及任务说明_ <a href="#1136" id="1136"></a>
 
@@ -144,7 +144,7 @@
 
 ## _**三、四星及五星大使专属福利说明**_ <a href="#0284" id="0284"></a>
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1_M98GxzJilbIuWyshZr5ucQ.webp" alt=""><figcaption></figcaption></figure>
 
 ## _**订单质押加成收益券**_ <a href="#e3fb" id="e3fb"></a>
 
