@@ -1,11 +1,8 @@
 # Table of contents
 
-* [SFT Protocol](README.md)
-  * [🔊 市场推广1.0活动](sft-protocol/shi-chang-tui-guang-1.0-huo-dong.md)
-
 ## 市场
 
-* [🎁 🎁SFT大使推广计划：加入获取每日$FIL空投](shi-chang/sft-da-shi-tui-guang-ji-hua-jia-ru-huo-qu-mei-ri-fil-kong-tou.md)
+* [🎖 SFT大使推广计划](README.md)
 
 ## 协议
 
