@@ -1,6 +1,6 @@
 # Table of contents
 
-## 市场 <a href="#sc" id="sc"></a>
+## 市场
 
 * [🎖 SFT大使推广计划](README.md)
 
