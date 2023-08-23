@@ -12,8 +12,8 @@
 4. **扩大挖矿规模。**
 5. **商务合作联系我们**。
 
-{% content-ref url="../xie-yi/lian-xi-wo-men.md" %}
-[lian-xi-wo-men.md](../xie-yi/lian-xi-wo-men.md)
+{% content-ref url="../xy/lianxi.md" %}
+[lianxi.md](../xy/lianxi.md)
 {% endcontent-ref %}
 
 \

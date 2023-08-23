@@ -12,4 +12,4 @@ SFT协议期望构建使用SFT协会通证代币SPD，来启用SFT大规模的�
 
 期望未来，吸引更多的设备机房商，来扩大规模，而设备商不需懂得Filecoin技术，我们有非常成熟的服务团队。
 
-商务合作请联系我们： [lian-xi-wo-men.md](../xie-yi/lian-xi-wo-men.md "mention")
+商务合作请联系我们： [lianxi.md](../xy/lianxi.md "mention")
