@@ -1,4 +1,4 @@
-# 🔑 持有SFT赎回FIL
+# 🔁 SFT赎回FIL机制详情说明
 
 <figure><img src="../.gitbook/assets/2.png" alt="" width="563"><figcaption></figcaption></figure>
 
