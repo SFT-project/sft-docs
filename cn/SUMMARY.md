@@ -3,6 +3,7 @@
 ## 市场
 
 * [🎖 SFT大使推广计划](README.md)
+* [🎟 超级加成券](shi-chang/supercoupon.md)
 
 ## 协议 <a href="#xy" id="xy"></a>
 
