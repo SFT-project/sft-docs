@@ -4,6 +4,7 @@
 
 * [🎖 SFT大使推广计划](README.md)
 * [🎟 超级加成券](shi-chang/supercoupon.md)
+* [欢乐大抽奖](shi-chang/huan-le-da-chou-jiang.md)
 
 ## 协议 <a href="#xy" id="xy"></a>
 
