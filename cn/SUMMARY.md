@@ -48,6 +48,9 @@
     * [2、在Pool借贷池中还款FIL](jc/jc/jd/hk.md)
   * [四、如何使用SFT赎回FIL](jc/jc/sftshfil.md)
 * [🪙 FEVM,BSC地址与钱包说明](jc/fevmbscsm.md)
+* [🤝 教程与帮助](jc/jiao-cheng-yu-bang-zhu/README.md)
+  * [一、更换钱包RPC节点](jc/jiao-cheng-yu-bang-zhu/yi-geng-huan-qian-bao-rpc-jie-dian.md)
+* [Page](jc/page.md)
 
 ## 技术文档 <a href="#js" id="js"></a>
 
