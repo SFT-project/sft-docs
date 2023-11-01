@@ -4,7 +4,7 @@
 
 * [🎖 SFT大使推广计划](README.md)
 * [🎟 超级加成券](shi-chang/supercoupon.md)
-* [🍬 欢乐大抽奖](shi-chang/huan-le-da-chou-jiang.md)
+* [🍬 rSPD欢乐大抽奖-1000 USDT 超级巨奖空投](shi-chang/rspd-huan-le-da-chou-jiang-1000-usdt-chao-ji-ju-jiang-kong-tou.md)
 * [🧀 Spacemesh兑换活动规则](shi-chang/spacemesh-dui-huan-huo-dong-gui-ze.md)
 
 ## 协议 <a href="#xy" id="xy"></a>
