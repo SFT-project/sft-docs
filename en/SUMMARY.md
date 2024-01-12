@@ -29,7 +29,6 @@
 * [📑 Product Tutorials](tutorials/product-tutorials/README.md)
   * [Stake FIL to Sealing Nodes](tutorials/product-tutorials/stake-fil-to-sealing-nodes/README.md)
     * [FVM](tutorials/product-tutorials/stake-fil-to-sealing-nodes/fvm.md)
-    * [BSC](tutorials/product-tutorials/stake-fil-to-sealing-nodes/bsc.md)
   * [Stake FIL to Pool](tutorials/product-tutorials/stake-fil-to-pool.md)
   * [Farm Stake and Income](tutorials/product-tutorials/farm-stake-and-income.md)
   * [Redemption Process](tutorials/product-tutorials/redemption-process.md)
