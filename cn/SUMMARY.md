@@ -1,18 +1,10 @@
 # Table of contents
 
-## 市场
-
-* [🎖 SFT大使推广计划](README.md)
-* [🎟 超级加成券](shi-chang/supercoupon.md)
-* [🍬 rSPD欢乐大抽奖-1000 USDT 超级巨奖空投](shi-chang/rspd-huan-le-da-chou-jiang-1000-usdt-chao-ji-ju-jiang-kong-tou.md)
-* [🧀 Spacemesh兑换活动规则](shi-chang/spacemesh-dui-huan-huo-dong-gui-ze.md)
-* [🍻 SFT应用链 — Spacemesh算力兑换活动开启](shi-chang/sftspacemesh.md)
-
 ## 协议 <a href="#xy" id="xy"></a>
 
-* [🔐 安全与审计](xy/shenji.md)
-* [🛣 路线图](xy/luxian.md)
-* [🏷 联系我们](xy/lianxi.md)
+* [🔐 安全与审计](README.md)
+* [🛣️ 路线图](xy/luxian.md)
+* [🏷️ 联系我们](xy/lianxi.md)
 
 ## 产品 <a href="#cp" id="cp"></a>
 
@@ -21,14 +13,14 @@
 * [🚰 提供Pool流动性](cp/ldx.md)
 * [🔁 SFT赎回FIL机制详情说明](cp/cysh.md)
 * [📈 借贷 Lending](cp/jd.md)
-* [⛓ 跨链桥rBridge](cp/qiao.md)
-* [☁ RPC 云](cp/yun.md)
+* [⛓️ 跨链桥rBridge](cp/qiao.md)
+* [☁️ RPC 云](cp/yun.md)
 
 ## 合作者 <a href="#hzz" id="hzz"></a>
 
 * [🤝 FIL 持有者](hzz/cyz.md)
-* [🛡 设备提供商](hzz/tgz.md)
-* [🕸 节点合作商](hzz/hzs.md)
+* [🛡️ 设备提供商](hzz/tgz.md)
+* [🕸️ 节点合作商](hzz/hzs.md)
 
 ## 教程 <a href="#jc" id="jc"></a>
 
